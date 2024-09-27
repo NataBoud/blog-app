@@ -1,6 +1,10 @@
 {
     "conventionalCommits.scopes": [
         "docs",
+<<<<<<< HEAD
         "comment"
+=======
+        "users"
+>>>>>>> origin/feature/gestion-des-utilisateurs
     ]
 }
